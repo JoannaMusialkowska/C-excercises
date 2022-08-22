@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\bin\Debug\net6.0\list-tutorial.exe
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\bin\Debug\net6.0\list-tutorial.deps.json
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\bin\Debug\net6.0\list-tutorial.runtimeconfig.json
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\bin\Debug\net6.0\list-tutorial.dll
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\bin\Debug\net6.0\list-tutorial.pdb
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.AssemblyInfo.cs
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.dll
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\refint\list-tutorial.dll
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.pdb
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\list-tutorial.genruntimeconfig.cache
+C:\Users\User\source\repos\C-excercises\C# excercises\list-tutorial\obj\Debug\net6.0\ref\list-tutorial.dll
