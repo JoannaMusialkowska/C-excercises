@@ -1,3 +1,3 @@
 # C-excercises
-- C# excercises based on Microsoft training site
-- And training of saving ork in cloud reposotory
+- C# excercises based on Microsoft training site (using official snipets)
+- And training of saving work in cloud reposotory
