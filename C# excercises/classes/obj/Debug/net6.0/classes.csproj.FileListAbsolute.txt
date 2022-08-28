@@ -1,0 +1,15 @@
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\bin\Debug\net6.0\classes.exe
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\bin\Debug\net6.0\classes.deps.json
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\bin\Debug\net6.0\classes.runtimeconfig.json
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\bin\Debug\net6.0\classes.dll
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\bin\Debug\net6.0\classes.pdb
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.dll
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\refint\classes.dll
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.pdb
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\classes.genruntimeconfig.cache
+C:\Users\User\Source\Repos\C-excercises\C# excercises\classes\obj\Debug\net6.0\ref\classes.dll
